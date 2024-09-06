@@ -1,2 +1,2 @@
-# EcodeCamp_Internships
+# Flutter Projects
 Author - Naseer Ullah
